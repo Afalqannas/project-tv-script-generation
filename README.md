@@ -6,3 +6,4 @@ In this project, we will generate our own Seinfeld TV scripts using RNNs. We wil
 - NumPy
 - IPython
 - pytorch
+- torchvision
